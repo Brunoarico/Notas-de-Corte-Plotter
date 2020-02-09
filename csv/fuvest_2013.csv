@@ -1,0 +1,125 @@
+CODIGO_E_NOME_DA_CARREIRA,VAGAS,INSCRITOS,AUSENTES,CONVOC_2_FASE,CONVOC_POR_VAGA,CORTE_MIN,MAX
+100−Administração − Ribeirão Preto,105,1518,252,274,2.61,46,72
+101−Administração − Piracicaba,40,577,108,105,2.63,43,66
+105−Arquitetura − FAU,150,4420,417,421,2.81,56,78
+110−Arquitetura − São Carlos,45,1413,175,125,2.78,53,73
+115−Artes Cênicas − Bacharelado,15,542,85,40,2.67,54,72
+120−Artes Cênicas − Licenciatura,10,168,33,27,2.70,44,58
+125−Artes Visuais,30,138,2,88,2.93,44,69
+130−Biblioteconomia,35,186,24,94,2.69,36,63
+135−Ciências Contábeis − Ribeirão Preto,45,442,80,117,2.60,41,72
+140−Ciências da Informação e da Documentação − Ribeirão Preto,40,303,29,91,2.28,39,64
+145−Ciências Sociais,210,1304,191,573,2.73,42,80
+150−Curso Superior do Audiovisual,35,1253,130,106,3.03,60,75
+155−Design,40,1386,204,110,2.75,53,75
+160−Direito,560,11304,1236,1541,2.75,57,83
+"165−Economia, Administração, Ciências Contábeis e Atuária",590,6815,720,1629,2.76,51,82
+170−Economia Empresarial e Controladoria − Ribeirão Preto,70,367,36,177,2.53,39,61
+175−Economia − Piracicaba,40,370,28,118,2.95,46,68
+180−Economia − Ribeirão Preto,45,369,37,121,2.69,46,72
+185−Editoração,15,266,35,57,3.80,50,76
+190−Filosofia,170,878,173,432,2.54,39,73
+195−Geografia,170,808,92,436,2.56,38,80
+"200−Gestão Ambiental − USP Leste, SP",120,473,44,290,2.42,32,67
+205−Gestão Ambiental − Piracicaba,40,185,16,99,2.48,35,54
+"210−Gestão de Políticas Públicas − USP Leste, SP",120,625,69,299,2.49,37,67
+215−História,270,1829,231,709,2.63,43,77
+220−Jornalismo,60,2494,283,166,2.77,56,75
+"225−Lazer e Turismo − USP Leste, SP",120,463,54,277,2.31,30,61
+230−Licenciatura em Educomunicação,30,128,16,72,2.40,37,56
+235−Letras,849,3299,408,2068,2.44,34,71
+"240−Marketing − USP Leste, SP",120,1168,139,294,2.45,42,64
+245−Música − ECA,35,118,3,87,2.49,35,72
+250−Música − Ribeirão Preto,30,153,39,68,2.27,32,70
+255−Pedagogia,180,881,144,404,2.24,33,66
+260−Pedagogia − Ribeirão Preto,50,214,41,116,2.32,29,58
+265−Publicidade e Propaganda,50,2423,326,135,2.70,55,73
+270−Relações Internacionais,60,2574,264,165,2.75,59,85
+275−Relações Públicas,50,887,83,126,2.52,47,65
+"280−Têxtil e Moda − USP Leste, SP",60,773,93,159,2.65,42,63
+285−Turismo,30,361,60,79,2.63,38,66
+399−Humanas,300,8256,1135,751,2.50,48,72
+400−Ciências Biológicas,120,1657,150,340,2.83,50,81
+405−Ciências Biológicas − Piracicaba,30,357,39,87,2.90,44,63
+410−Ciências Biológicas − Ribeirão Preto,60,559,59,155,2.58,45,75
+415−Ciências Biomédicas,40,1194,99,103,2.58,58,84
+"420−Ciências da Atividade Física − USP Leste, SP",60,158,10,113,1.88,27,52
+425−Ciências dos Alimentos − Piracicaba,40,195,15,101,2.53,35,60
+430−Educação Física e Esporte,100,877,121,236,2.36,39,62
+435−Educação Física − Ribeirão Preto,60,381,61,152,2.53,33,61
+440−Enfermagem,80,735,126,221,2.76,38,66
+445−Enfermagem − Ribeirão Preto,130,553,78,305,2.35,31,58
+450−Engenharia Agronômica − Piracicaba,200,1279,130,530,2.65,39,69
+455−Engenharia Florestal − Piracicaba,40,189,23,103,2.58,35,62
+460−Farmácia−Bioquímica,150,1282,120,384,2.56,47,73
+465−Farmácia−Bioquímica − Ribeirão Preto,80,552,55,211,2.64,42,76
+470−Fisioterapia,25,752,125,62,2.48,47,68
+475−Fisioterapia − Ribeirão Preto,40,548,91,101,2.53,40,67
+480−Fonoaudiologia,25,200,24,60,2.40,39,61
+485−Fonoaudiologia − Bauru,40,268,30,93,2.33,38,60
+490−Fonoaudiologia − Ribeirão Preto,30,106,7,67,2.23,30,53
+"495−Gerontologia − USP Leste, SP",60,177,19,119,1.98,27,59
+500−Medicina,275,15517,1517,812,2.95,73,87
+505−Ciências Médicas − Ribeirão Preto,100,4545,284,332,3.32,71,84
+510−Medicina Veterinária,80,1793,221,228,2.85,50,76
+515−Medicina Veterinária − Pirassununga,60,917,88,158,2.63,46,67
+520−Nutrição,80,1022,168,204,2.55,42,66
+525−Nutrição e Metabolismo − Ribeirão Preto,30,323,42,79,2.63,40,73
+"530−Obstetrícia − USP Leste, SP",60,314,33,138,2.30,34,56
+535−Odontologia,133,1394,152,336,2.53,43,74
+540−Odontologia − Bauru,50,625,60,128,2.56,45,65
+545−Odontologia − Ribeirão Preto,80,906,76,202,2.53,44,70
+550−Psicologia,70,2651,370,177,2.53,55,74
+555−Psicologia − Ribeirão Preto,40,1144,144,107,2.68,52,73
+560−Saúde Pública,40,391,43,99,2.48,39,61
+565−Terapia Ocupacional,25,196,18,66,2.64,39,61
+570−Terapia Ocupacional − Ribeirão Preto,20,150,29,51,2.55,34,52
+575−Zootecnia − Pirassununga,40,300,32,93,2.33,37,68
+699−Biológicas,300,5917,573,706,2.35,48,77
+700−Ciências Biomoleculares − São Carlos,40,242,19,112,2.80,44,71
+"705−Ciências da Natureza − USP Leste, SP",120,267,28,179,1.49,27,63
+710−Computação,330,3229,371,934,2.83,44,78
+715−Engenharia Aeronáutica − São Carlos,40,1085,131,113,2.83,66,82
+720−Engenharia Ambiental − Lorena,40,592,51,100,2.50,46,70
+725−Engenharia Ambiental − São Carlos,40,650,80,108,2.70,50,70
+730−Engenharia Bioquímica − Lorena,40,275,30,105,2.63,45,70
+735−Engenharia Civil − São Carlos,60,3191,499,162,2.70,63,84
+740−Engenharia de Alimentos − Pirassununga,100,601,39,247,2.47,40,72
+745−Engenharia de Biossistemas − Pirassununga,60,161,14,130,2.17,27,65
+750−Engenharia de Materiais − Lorena,40,319,30,106,2.65,44,67
+755−Engenharia de Materiais e Manufatura − São Carlos,50,438,20,139,2.78,51,73
+760−Engenharia de Produção − Lorena,40,1161,149,106,2.65,52,74
+765−Engenharia Elétrica e de Computação − São Carlos,150,2649,256,418,2.79,55,80
+770−Engenharia Física − Lorena,40,382,42,109,2.73,48,78
+775−Engenharia na Escola Politécnica,820,12680,719,2316,2.82,61,86
+780−Engenharia Química − Lorena,160,2018,166,455,2.84,51,79
+785−Engenharia − São Carlos,150,2795,196,444,2.96,59,82
+790−Física / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Mate,455,2223,272,1210,2.66,39,80
+795−Física Médica − Ribeirão Preto,40,174,15,97,2.43,36,70
+800−Geologia,50,706,54,143,2.86,51,73
+805−Informática Biomédica − Ribeirão Preto,40,142,13,95,2.38,32,64
+810−Informática − São Carlos,40,253,38,105,2.63,36,70
+815−Licenciatura em Ciências Exatas − São Carlos,50,186,13,114,2.28,33,64
+820−Licenciatura em Geociências e Educação Ambiental,40,104,7,82,2.05,27,67
+825−Licenciatura em Matemática / Física,260,730,71,566,2.18,27,69
+830−Matemática Aplicada − Ribeirão Preto,45,137,11,110,2.44,29,73
+835−Matemática − São Carlos,95,374,32,220,2.32,34,66
+840−Oceanografia,40,279,19,107,2.68,41,79
+845−Química Ambiental,30,145,20,73,2.43,38,68
+850−Química (Bacharelados) − Ribeirão Preto,60,434,38,171,2.85,40,73
+855−Química − Bacharelado e Licenciatura,60,709,58,181,3.02,50,82
+860−Química − Licenciatura,30,174,15,80,2.67,40,70
+865−Química − Licenciatura − Ribeirão Preto,40,141,13,99,2.48,30,59
+870−Química (Bacharelados) − São Carlos,60,366,29,159,2.65,42,79
+999−Exatas,300,7342,703,782,2.61,52,83
+Total,11982,159609,17028,31182,2.60,,87
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
